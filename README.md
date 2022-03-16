@@ -34,11 +34,10 @@
 <img  align="left" width="32px" alt="Docker icon" style="padding=8px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
 <img  align="left" width="32px" alt="Git icon" style="padding=8px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 <img  align="left" width="32px" alt="Github icon" style="padding=8px;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
-<img  align="left" width="32px" alt="Bash icon" style="padding=8px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"/>  
+<img width="32px" alt="Bash icon" style="padding=8px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"/>  
   
   
-<br>
-<br>
+***
 
 ## 📊 GitHub Stats
 <img alt="Nemanja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=manojlovic1998&show_icons=true&hide_border=true&title_color=5300FF&text_color=040921&icon_color=FFD600"/>
