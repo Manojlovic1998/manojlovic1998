@@ -11,3 +11,5 @@
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nemanja-manojlovic/).
 
 - 👯 I’m looking to collaborate on open source projects.
+
+<img align="left" alt="Nemanja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=manojlovic1998&show_icons=true&hide_border=true"/>
