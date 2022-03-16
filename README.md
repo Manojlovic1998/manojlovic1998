@@ -16,7 +16,7 @@
 
 ---
 
-## Language and Tools
+## 🚀 Language and Tools
 <img  align="left" width="32px" alt="Html icon" style="padding=8px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img  align="left" width="32px" alt="CSS icon" style="padding=8px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img  align="left" width="32px" alt="Sass icon" style="padding=8px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
@@ -40,5 +40,5 @@
 <br>
 <br>
 
-## GitHub Stats
+## 📊 GitHub Stats
 <img alt="Nemanja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=manojlovic1998&show_icons=true&hide_border=true&title_color=5300FF&text_color=040921&icon_color=FFD600"/>
