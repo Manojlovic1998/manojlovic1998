@@ -10,4 +10,4 @@
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nemanja-manojlovic/).
 
-- 👯 I’m looking to collaborate on OpenSource Projects.
+- 👯 I’m looking to collaborate on open source projects.
