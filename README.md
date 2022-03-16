@@ -2,6 +2,8 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm nemanja</h1>
 <h3 align="center">I'm a Junior Full Stack Developer & Designer from Sweden.</h3>
 
+---
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on building my portfolio.
@@ -11,5 +13,7 @@
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nemanja-manojlovic/).
 
 - 👯 I’m looking to collaborate on open source projects.
+
+---
 
 <img align="left" alt="Nemanja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=manojlovic1998&show_icons=true&hide_border=true"/>
