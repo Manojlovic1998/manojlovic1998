@@ -39,6 +39,7 @@
 <img width="32px" align="left" alt="Ruby icon" style="padding=8px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"/>
 <img width="32px" align="left" alt="Rails icon" style="padding=8px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"/>
 <img width="32px" alt="Vue icon" style="padding=8px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
+<img width="32px" alt="Vite icon" style="padding=8px;" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667"/>
   
   
 ***
