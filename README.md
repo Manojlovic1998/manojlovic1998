@@ -57,5 +57,8 @@
 - Docker:
   - Docker Fib. Calculator. Showcases the use of Docker for developing applications within containerized environments.  GitHub: https://github.com/Manojlovic1998/docker-fib-calculator
 
+- Kubernetes
+  - Running Multi Container App on Kubernetes. Showcases the implementation of Kubernetes objects to orchestrate intercommunication of applications within the cluster.  GitHub: https://github.com/Manojlovic1998/running-multi-container-app-on-k8s
+
 - ThreeJS:
   - 3D Cube. Showcases the use of ThreeJS module classes for setting up a basic scene.  GitHub: https://github.com/Manojlovic1998/threejs-cube
