@@ -51,4 +51,4 @@
 ## Portfolio Projects
 
 - Vue:
-  - Resource App. Showcases the use of Vue via Node module imports. For the app development Vue CLI workflow was applied. https://github.com/Manojlovic1998/resource-app
+  - Resource App. Showcases the use of Vue via Node module imports. For the app development Vue CLI workflow was applied.  GitHub: https://github.com/Manojlovic1998/resource-app, Live Website: https://manojlovic1998.github.io/resource-app/
