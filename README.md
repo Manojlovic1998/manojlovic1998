@@ -51,4 +51,5 @@
 ## Portfolio Projects
 
 - Vue:
+  - Monster Slayer Game. Showcases the use of Vue via CDN imports. Goal was to use Vue CDN import to build widgets.  GitHub: https://github.com/Manojlovic1998/monster-game,  Live Website: https://manojlovic1998.github.io/monster-game/
   - Resource App. Showcases the use of Vue via Node module imports. For the app development Vue CLI workflow was applied.  GitHub: https://github.com/Manojlovic1998/resource-app, Live Website: https://manojlovic1998.github.io/resource-app/
