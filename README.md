@@ -46,3 +46,9 @@
 
 ## 📊 GitHub Stats
 <img alt="Nemanja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=manojlovic1998&show_icons=true&hide_border=true&title_color=5300FF&text_color=040921&icon_color=FFD600"/>
+
+
+## Portfolio Projects
+
+- Vue:
+  - Resource App. Showcases the use of Vue via Node module imports. For the app development Vue CLI workflow was applied. https://github.com/Manojlovic1998/resource-app
