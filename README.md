@@ -62,3 +62,6 @@
 
 - ThreeJS:
   - 3D Cube. Showcases the use of ThreeJS module classes for setting up a basic scene.  GitHub: https://github.com/Manojlovic1998/threejs-cube
+
+- NodeJS:
+  - Project that covers the basics of NodeJS. Basics such as: creating a Node server, node lifecycle & event loop, sending requests and many more.  GitHub: https://github.com/Manojlovic1998/NodeJS-Basics
