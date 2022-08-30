@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on building my portfolio.
+- 🔭 I’m currently working on [Linux Terminal Tutorial](https://nemanjamanojlovic.com/series/linux-terminal) blog series.
 
 - 🌱 I’m currently learning Linux System Administration.
 
