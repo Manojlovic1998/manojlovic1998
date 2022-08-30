@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on building my portfolio.
 
-- 🌱 I’m currently learning Linux System Administration, Ruby on Rails, Vue and TypeScript.
+- 🌱 I’m currently learning Linux System Administration.
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nemanja-manojlovic/).
 
