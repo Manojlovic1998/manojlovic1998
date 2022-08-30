@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on [Linux Terminal Tutorial](https://nemanjamanojlovic.com/series/linux-terminal) blog series.
 
-- 🌱 I’m currently learning Linux System Administration.
-
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nemanja-manojlovic/).
 
 - 👯 I’m looking to collaborate on open source projects.
