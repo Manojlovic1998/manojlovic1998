@@ -63,3 +63,6 @@
 
 - NodeJS:
   - Project that covers the basics of NodeJS. Basics such as: creating a Node server, node lifecycle & event loop, sending requests and many more.  GitHub: https://github.com/Manojlovic1998/NodeJS-Basics
+
+- QR Code Generator:
+  - Proof of Concept for generating QR Codes for text and URLs.  Live Website: https://manojlovic1998.github.io/qr-code-generator/  GitHub Repository: https://github.com/Manojlovic1998/qr-code-generator
