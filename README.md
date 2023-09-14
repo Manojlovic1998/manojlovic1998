@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on [Linux Terminal Tutorial](https://nemanjamanojlovic.com/series/linux-terminal) blog series.
+- 💡 I actively contribute to the developer community through insightful blogs on programming techniques and UI/UX design principles.
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nemanja-manojlovic/).
 
