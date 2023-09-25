@@ -1,6 +1,8 @@
-<img width="100%" height="auto" src="https://i.imgur.com/L8qADM0.png" height="175px" />
-<h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Nemanja</h1>
-<h3>I'm a passionate Full-Stack Software Engineer with a knack for crafting high-quality software solutions. I enjoy diving into various technologies, creating awesome projects, and collaborating with talented teams.</h3>
+![hero banner containing text full-stack developer & designer](https://i.imgur.com/L8qADM0.png)
+![view counter](https://komarev.com/ghpvc/?username=manojlovic1998&color=blue)
+# Hi there ![wave gif image](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif), I'm Nemanja
+
+### I'm a passionate Full-Stack Software Engineer with a knack for crafting high-quality software solutions. I enjoy diving into various technologies, creating awesome projects, and collaborating with talented teams.
 
 ---
 
