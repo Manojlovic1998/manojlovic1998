@@ -17,7 +17,7 @@
 ## 🚀 Language and Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jest,nodejs,babel,express,nestjs,nextjs,graphql,django,nginx,flask,mysql,bash,astro,git,kubernetes,docker,jenkins,githubactions,linux,aws,azure,firebase,gcp,heroku,blender,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,jest,react,vue,redux,threejs,nodejs,webpack,babel,express,nestjs,nextjs,vite,graphql,django,nginx,py,flask,mysql,postgres,bash,pug,astro,git,ruby,rails,kubernetes,docker,jenkins,githubactions,linux,redis,aws,azure,firebase,gcp,postman,heroku,blender,figma" />
 </p>
 
 <img  align="left" width="32px" alt="Html icon" style="padding=8px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
