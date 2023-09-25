@@ -5,7 +5,6 @@ I'm a passionate Full-Stack Software Engineer with a knack for crafting high-qua
 <br />
 ![view counter](https://komarev.com/ghpvc/?username=manojlovic1998&color=blue)
 
----
 
 ## 🙋‍♂️ About Me
 
@@ -15,12 +14,10 @@ I'm a passionate Full-Stack Software Engineer with a knack for crafting high-qua
 
 - 👯 I’m looking to collaborate on open source projects.
 
----
 
 ## 🚀 Language and Tools
 <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,jest,react,vue,redux,threejs,nodejs,webpack,babel,express,nestjs,nextjs,vite,graphql,django,nginx,py,flask,mysql,postgres,bash,pug,astro,git,ruby,rails,kubernetes,docker,jenkins,githubactions,linux,redis,aws,azure,firebase,gcp,postman,heroku,blender,figma" />
   
-***
 
 ## 📊 GitHub Stats
 <img alt="Nemanja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=manojlovic1998&show_icons=true&hide_border=true&title_color=5300FF&text_color=040921&icon_color=FFD600"/>
