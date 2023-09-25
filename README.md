@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/nemanja-manojlovic/"><img width="100%" height="auto" src="https://i.imgur.com/L8qADM0.png" height="175px"/></a>
+<a href="https://www.linkedin.com/in/nemanja-manojlovic/"><img width="100%" height="auto" src="https://i.imgur.com/L8qADM0.png" height="175px"/>
 <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Nemanja</h1>
 <h3>I'm a passionate Full-Stack Software Engineer with a knack for crafting high-quality software solutions. I enjoy diving into various technologies, creating awesome projects, and collaborating with talented teams.</h3>
 
