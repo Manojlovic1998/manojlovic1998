@@ -15,6 +15,11 @@
 ---
 
 ## 🚀 Language and Tools
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jest,nodejs,babel,express,nestjs,nextjs,graphql,django,nginx,flask,mysql,bash,astro,git,kubernetes,docker,jenkins,githubactions,linux,aws,azure,firebase,gcp,heroku,blender,figma" />
+</p>
+
 <img  align="left" width="32px" alt="Html icon" style="padding=8px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img  align="left" width="32px" alt="CSS icon" style="padding=8px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img  align="left" width="32px" alt="Sass icon" style="padding=8px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
