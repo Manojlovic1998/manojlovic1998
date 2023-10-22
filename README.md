@@ -38,6 +38,8 @@ I'm a passionate Full-Stack Software Engineer with a knack for crafting high-qua
 - Kubernetes
   - Running Multi Container App on Kubernetes. Showcases the implementation of Kubernetes objects to orchestrate intercommunication of applications within the cluster.  GitHub: https://github.com/Manojlovic1998/running-multi-container-app-on-k8s
 
+- VSCode Extention/Plugin:
+  - Jelly is a theme designed to make the workspace more colorful, it introduces a new color scheme for the workspace, and the color scheme is more vibrant.  GitHub: https://github.com/Manojlovic1998/vscode-jelly-theme,  Visual Studio Marketplace: https://marketplace.visualstudio.com/items?itemName=NemanjaManojlovic.jelly
 - ThreeJS:
   - 3D Cube. Showcases the use of ThreeJS module classes for setting up a basic scene.  GitHub: https://github.com/Manojlovic1998/threejs-cube
 
